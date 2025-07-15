@@ -13,4 +13,4 @@
 This [tidy_tuesday](https://github.com/kateod-ukhsa/tidy_tuesday) repository is a place to store code used to create TidyTuesday visuals.
 
 > [!IMPORTANT]
-> This code has not been peer-reviewed and should be used with caution.
+> The code in this repository has not been peer-reviewed and should be used with caution.
